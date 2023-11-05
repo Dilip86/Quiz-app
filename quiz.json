@@ -1,0 +1,103 @@
+[
+    {
+      "question": "What is the capital of France?",
+      "options": ["New York", "London", "Paris", "Dublin"],
+      "answer": "Paris"
+    },
+    {
+      "question": "Who painted the Mona Lisa?",
+      "options": ["Vincent Van Gogh", "Pablo Picasso", "Leonardo Da Vinci", "Claude Monet"],
+      "answer": "Leonardo Da Vinci"
+    },
+    {
+      "question": "Which planet is known as the Red Planet?",
+      "options": ["Earth", "Mars", "Jupiter", "Venus"],
+      "answer": "Mars"
+    },
+    {
+      "question": "What is the largest mammal in the world?",
+      "options": ["Elephant", "Blue Whale", "Giraffe", "Hippopotamus"],
+      "answer": "Blue Whale"
+    },
+    {
+      "question": "What is the symbol for the chemical element gold?",
+      "options": ["Go", "GoLd", "Au", "Gd"],
+      "answer": "Au"
+    },
+    {
+      "question": "Which gas do plants absorb from the atmosphere?",
+      "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+      "answer": "Carbon Dioxide"
+    },
+    {
+      "question": "What is the largest organ in the human body?",
+      "options": ["Heart", "Liver", "Skin", "Brain"],
+      "answer": "Skin"
+    },
+    {
+      "question": "Which country is known as the Land of the Rising Sun?",
+      "options": ["China", "South Korea", "Japan", "Vietnam"],
+      "answer": "Japan"
+    },
+    {
+      "question": "What is the currency of India?",
+      "options": ["Rupee", "Yen", "Dollar", "Euro"],
+      "answer": "Rupee"
+    },
+    {
+      "question": "What is the largest planet in our solar system?",
+      "options": ["Earth", "Saturn", "Jupiter", "Mars"],
+      "answer": "Jupiter"
+    },
+    {
+      "question": "Who is the author of 'To Kill a Mockingbird'?",
+      "options": ["Charles Dickens", "Jane Austen", "Harper Lee", "F. Scott Fitzgerald"],
+      "answer": "Harper Lee"
+    },
+    {
+      "question": "What is the chemical symbol for the element oxygen?",
+      "options": ["Ox", "Oi", "O", "Oxg"],
+      "answer": "O"
+    },
+    {
+      "question": "Which gas is responsible for the Earth's protective ozone layer?",
+      "options": ["Carbon Dioxide", "Methane", "Oxygen", "Ozone"],
+      "answer": "Ozone"
+    },
+    {
+      "question": "In which year did the Titanic sink?",
+      "options": ["1912", "1920", "1907", "1931"],
+      "answer": "1912"
+    },
+    {
+      "question": "What is the largest continent in the world?",
+      "options": ["North America", "South America", "Asia", "Africa"],
+      "answer": "Asia"
+    },
+    {
+      "question": "Which planet is known as the Evening Star?",
+      "options": ["Venus", "Mars", "Saturn", "Jupiter"],
+      "answer": "Venus"
+    },
+    {
+      "question": "Who wrote the play 'Romeo and Juliet'?",
+      "options": ["William Shakespeare", "Charles Dickens", "Jane Austen", "Mark Twain"],
+      "answer": "William Shakespeare"
+    },
+    {
+      "question": "What is the largest species of shark?",
+      "options": ["Tiger Shark", "Hammerhead Shark", "Great White Shark", "Whale Shark"],
+      "answer": "Whale Shark"
+    },
+    {
+      "question": "Which gas is known as the 'silent killer'?",
+      "options": ["Carbon Dioxide", "Oxygen", "Methane", "Carbon Monoxide"],
+      "answer": "Carbon Monoxide"
+    },
+    {
+      "question": "Who was the first President of the United States?",
+      "options": ["George Washington", "Thomas Jefferson", "John Adams", "Abraham Lincoln"],
+      "answer": "George Washington"
+    }
+  ]
+  
